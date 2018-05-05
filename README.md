@@ -21,3 +21,8 @@
         <img src="http://img.shields.io/badge/swift-3.1-brightgreen.svg" alt="Swift 3.1">
     </a>
 </center>
+
+1) Клонировать
+2) Установить Vapor(https://vapor.codes)
+3) Из директории с проектом
+    > vapor build && vapor run
